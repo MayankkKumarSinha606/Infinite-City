@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/arthishaxom/mini-project
+  git clone https://github.com/MayankkKumarSinha606/Infinite-City.git
 cd mini-project
 ```
 
